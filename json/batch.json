@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "CustomerID": "CUST00000",
+            "Age": 30,
+            "Gender": "Male",
+            "Tenure": 5.0,
+            "MonthlyCharges": 50.0,
+            "ServiceUsage": 1.0,
+            "ContractType": "Month-to-Month",
+            "PaymentMethod": "Credit Card",
+            "CustomerSupportCalls": 0.0
+        },
+        {
+            "CustomerID": "CUST00001",
+            "Age": 31,
+            "Gender": "Female",
+            "Tenure": 5.5,
+            "MonthlyCharges": 53.25,
+            "ServiceUsage": 1.1,
+            "ContractType": "One-Year",
+            "PaymentMethod": "Bank Transfer",
+            "CustomerSupportCalls": 1.0
+        }
+    ]
+}
